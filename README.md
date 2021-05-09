@@ -1,2 +1,2 @@
-# Liberation-Config
-ARMA 3 Liberation: Configuration Values
+# ARMA 3 Liberation: Configuration (Mission Parameters)
+
